@@ -92,8 +92,8 @@ many other developers will refuse to look at it because it lacks tests; without
 tests, they won't trust it. Jacob Kaplan-Moss, one of Django's original
 developers, says "Code without tests is broken by design."
 
-That other developers want to see tests in your software before they take it
-seriously is yet another reason for you to start writing tests.
+Other developers want to see tests in your software before they take it
+seriously, this is yet another reason for you to start writing tests.
 
 Tests help teams work together
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
